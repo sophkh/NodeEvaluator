@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeEvaluator", "NodeEvaluator\NodeEvaluator.csproj", "{18C8F4CD-D48C-4529-BE96-F2AC5457D9CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nodes.Test", "Nodes.Test\Nodes.Test.csproj", "{6EC20261-CAC5-4F1D-B2F3-96743EF6302F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18C8F4CD-D48C-4529-BE96-F2AC5457D9CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C8F4CD-D48C-4529-BE96-F2AC5457D9CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C8F4CD-D48C-4529-BE96-F2AC5457D9CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C8F4CD-D48C-4529-BE96-F2AC5457D9CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC20261-CAC5-4F1D-B2F3-96743EF6302F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC20261-CAC5-4F1D-B2F3-96743EF6302F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC20261-CAC5-4F1D-B2F3-96743EF6302F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC20261-CAC5-4F1D-B2F3-96743EF6302F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {718ECD14-4DE6-4F1B-BDD0-79F15662AEC9}
+	EndGlobalSection
+EndGlobal
